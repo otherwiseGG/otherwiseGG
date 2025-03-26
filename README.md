@@ -10,7 +10,8 @@
 [![Ethical Hacker](https://images.credly.com/size/110x110/images/242902b5-f527-42ad-865e-977c9e1b5b58/image.png)](https://www.credly.com/badges/6c2ca9cd-b171-4792-9ef0-6d71d0698769/public_url)
 [![IT Essentials](https://images.credly.com/size/110x110/images/04e8034c-81f5-4f7f-ab23-e8b428c31ce9/ITE.png)](https://www.credly.com/badges/9419dcb0-2258-4bc2-abba-c3492ceebf3b/public_url) 
 [![Computer Hardware Basics](https://images.credly.com/size/110x110/images/19e742ef-13be-4d26-87ed-ac8f5fd0643c/image.png)](https://www.credly.com/badges/7da5c464-4b49-4cc5-b15d-a5cb3b8717a3/public_url)  
-[![Network Addressing and Basic Troubleshooting](https://images.credly.com/size/110x110/images/49c099bd-8542-4f48-8c03-f21799dcaf51/image.png)](https://www.credly.com/badges/104c3b3f-31e4-4ed0-9672-bfbff810df02/public_url) 
+[![Network Addressing and Basic Troubleshooting](https://images.credly.com/size/110x110/images/49c099bd-8542-4f48-8c03-f21799dcaf51/image.png)](https://www.credly.com/badges/104c3b3f-31e4-4ed0-9672-bfbff810df02/public_url)
+[![Introduction to Data Science](https://images.credly.com/size/110x110/images/b38a42e0-dc58-4ce2-b6c0-28d978e8aaad/image.png)](https://www.credly.com/badges/4b1ed593-b80e-4143-8ac7-11339b536e87/public_url)
 [![Networking Academy Learn-A-Thon 2024](https://images.credly.com/size/110x110/images/e360c3e0-4031-479b-ad7b-5ce878bc29d7/image.png)](https://www.credly.com/badges/36880718-1bb2-4aeb-8ce8-744a73432421/public_url)
 
 # 💻 Tech Stack:
