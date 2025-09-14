@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on UNFACED Tournaments<br>🤝 I’m looking for help with UNFACED Tournaments<br>🌱 I’m currently learning React<br>💬 Ask me about E-Sports<br>⚡ Fun fact: I LOVE cats.
+🔭 I’m currently working on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning React<br>💬 Ask me about E-Sports<br>⚡ Fun fact: I LOVE cats.
 
 
 ## 🌐 Socials:
