@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning React<br>💬 Ask me about E-Sports<br>⚡ Fun fact: I LOVE cats.
+🔭 I’m currently working on CompeteSync<br>🤝 I’m looking for help with CompeteSync<br>🌱 I’m currently learning React & Supabase<br>💬 Ask me about E-Sports<br>⚡ Fun fact: I LOVE cats.
 
 
 ## 🌐 Socials:
