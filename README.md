@@ -1,37 +1,73 @@
-# 💫 About Me:
-🔭 I’m currently working on CompeteSync<br>🤝 I’m looking for help with CompeteSync<br>🌱 I’m currently learning React & Supabase<br>💬 Ask me about E-Sports<br>⚡ Fun fact: I LOVE cats.
+<div align="center">
 
+<img src="./assets/profile.jpg" width="200" />
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bennythiele) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiele-benjamin/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/otherwisegg) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@otherwisegg) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/ggotherwise) 
+# B E N J A M I N
 
-## 🏅 Certifications:
-[![GitHub Foundations](https://images.credly.com/size/110x110/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png)](https://www.credly.com/badges/536cbfb4-38c0-41e9-a8d7-68c3c9a5238c/public_url)
-[![Ethical Hacker](https://images.credly.com/size/110x110/images/242902b5-f527-42ad-865e-977c9e1b5b58/image.png)](https://www.credly.com/badges/6c2ca9cd-b171-4792-9ef0-6d71d0698769/public_url)
-[![IT Essentials](https://images.credly.com/size/110x110/images/04e8034c-81f5-4f7f-ab23-e8b428c31ce9/ITE.png)](https://www.credly.com/badges/9419dcb0-2258-4bc2-abba-c3492ceebf3b/public_url) 
-[![Computer Hardware Basics](https://images.credly.com/size/110x110/images/19e742ef-13be-4d26-87ed-ac8f5fd0643c/image.png)](https://www.credly.com/badges/7da5c464-4b49-4cc5-b15d-a5cb3b8717a3/public_url)  
-[![Network Addressing and Basic Troubleshooting](https://images.credly.com/size/110x110/images/49c099bd-8542-4f48-8c03-f21799dcaf51/image.png)](https://www.credly.com/badges/104c3b3f-31e4-4ed0-9672-bfbff810df02/public_url)
-[![Introduction to Data Science](https://images.credly.com/size/110x110/images/b38a42e0-dc58-4ce2-b6c0-28d978e8aaad/image.png)](https://www.credly.com/badges/4b1ed593-b80e-4143-8ac7-11339b536e87/public_url)
-[![Networking Academy Learn-A-Thon 2024](https://images.credly.com/size/110x110/images/e360c3e0-4031-479b-ad7b-5ce878bc29d7/image.png)](https://www.credly.com/badges/36880718-1bb2-4aeb-8ce8-744a73432421/public_url)
-<!--[![3CX Advanced Certified Engineer V20](https://portal.3cx.com/assets/images/certification/certified_badge_advanced.png)](https://portal.3cx.com/share/certificate/ttdQYhNkDT) -->
+### Full Stack Developer · Cybersecurity Analyst · Cloud Infrastructure Engineer
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![OVH](https://img.shields.io/badge/ovh-%23123F6D.svg?style=for-the-badge&logo=ovh&logoColor=#123F6D) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white) ![Adobe Dreamweaver](https://img.shields.io/badge/Adobe%20Dreamweaver-FF61F6.svg?style=for-the-badge&logo=Adobe%20Dreamweaver&logoColor=white) ![Adobe Fonts](https://img.shields.io/badge/Adobe%20Fonts-000B1D.svg?style=for-the-badge&logo=Adobe%20Fonts&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white) ![Wireguard](https://img.shields.io/badge/wireguard-%2388171A.svg?style=for-the-badge&logo=wireguard&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=otherwiseGG&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=otherwiseGG&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=otherwiseGG&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+25, from Hannover, Germany. E-Sports Player and Enthusiast working in E-Sports.<br/>
+building the future of e-sports management at <a href="https://competesync.gg"><strong>CompeteSync</strong></a>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=otherwiseGG&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<br/>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<a href="https://instagram.com/bennythiele">
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram" />
+</a>
+<a href="https://www.linkedin.com/in/thiele-benjamin/">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://pinterest.com/otherwisegg">
+  <img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white" alt="Pinterest" />
+</a>
+<a href="https://tiktok.com/@otherwisegg">
+  <img src="https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white" alt="TikTok" />
+</a>
+<a href="https://twitch.tv/ggotherwise">
+  <img src="https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white" alt="Twitch" />
+</a>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=otherwiseGG&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<br/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=otherwiseGG&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<br/>
+
+### S T A C K
+
+**React** &nbsp;·&nbsp; **Next.js** &nbsp;·&nbsp; **TypeScript** &nbsp;·&nbsp; **Tailwind**
+<br/>
+**Laravel** &nbsp;·&nbsp; **Supabase** &nbsp;·&nbsp; **Docker**
+
+<br/>
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=otherwiseGG&theme=date_night)
+
+<br/>
+
+---
+
+<br/>
+
+<details>
+<summary>V E R I F I E D &nbsp; S K I L L S</summary>
+<br/>
+
+| Certification                                                                                                             | Authority |
+| :------------------------------------------------------------------------------------------------------------------------ | :-------- |
+| [**Certified Ethical Hacker**](https://www.credly.com/badges/6c2ca9cd-b171-4792-9ef0-6d71d0698769/public_url)             | Cisco     |
+| [**IT Essentials**](https://www.credly.com/badges/9419dcb0-2258-4bc2-abba-c3492ceebf3b/public_url)                        | Cisco     |
+| [**Network Addressing & Troubleshooting**](https://www.credly.com/badges/104c3b3f-31e4-4ed0-9672-bfbff810df02/public_url) | Cisco     |
+| [**Introduction to Data Science**](https://www.credly.com/badges/4b1ed593-b80e-4143-8ac7-11339b536e87/public_url)         | Cisco     |
+| [**GitHub Foundations**](https://www.credly.com/badges/536cbfb4-38c0-41e9-a8d7-68c3c9a5238c/public_url)                   | GitHub    |
+| [**3CX Basic Certified v20 Engineer**](https://portal.3cx.com/share/certificate/JHJIMPxKo1)                               | 3CX       |
+| [**3CX Advanced Certified v20 Engineer**](https://portal.3cx.com/share/certificate/ttdQYhNkDT)                            | 3CX       |
+
+</details>
+
+<br/>
+<br/>
+
+![](https://komarev.com/ghpvc/?username=otherwiseGG)
+
+</div>
